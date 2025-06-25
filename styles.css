@@ -31,6 +31,14 @@ body {
     font-size: 1.5rem;
     font-weight: 700;
     color: var(--primary-color) !important;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.navbar-logo {
+    height: 48px;
+    width: auto;
 }
 
 .nav-link {
