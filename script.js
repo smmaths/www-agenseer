@@ -1,5 +1,5 @@
 // Define the application link
-const app_link = "http://localhost:3000";
+const app_link = "https://app.agenseer.com";
 
 // Update all "Get Started" and "Try AgenSeer Free" buttons
 document.addEventListener('DOMContentLoaded', function() {
